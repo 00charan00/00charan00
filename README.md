@@ -1,4 +1,4 @@
-[Charan's Logo](https://via.placeholder.com/150) <!-- Replace with your logo URL -->
+[Charan's Logo](https://drive.google.com/file/d/0B-0pRnX3NfdkOTdiNlluSDFVbk5YSU41SmtlbWdocGZWdEpN/view?usp=sharing&resourcekey=0-lJU9Wk_LvCu02jUSB7_dLw)
 
 # Hello, I'm Charan Adhithya K! 👋
 
