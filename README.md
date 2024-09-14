@@ -1,5 +1,6 @@
 # Hello, I'm Charan Adhithya K! 👋
 
+
 Welcome to my GitHub profile! I'm a passionate developer with a strong background in various programming languages, web development technologies, and DevOps tools. 
 
 ## Languages
@@ -28,6 +29,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong backgroun
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=azure&logoColor=white)
 
 ## Tools
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white)
+![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -51,5 +56,3 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong backgroun
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Charan_Adhithya_K?theme=dark&font=Mada)
 
 Feel free to explore my repositories and reach out if you have any questions or just want to connect!
-
-<!-- Optional: Add a brief about your current role or projects if desired -->
