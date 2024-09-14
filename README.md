@@ -1,5 +1,3 @@
-[Charan's Logo](https://drive.google.com/file/d/0B-0pRnX3NfdkOTdiNlluSDFVbk5YSU41SmtlbWdocGZWdEpN/view?usp=sharing&resourcekey=0-lJU9Wk_LvCu02jUSB7_dLw)
-
 # Hello, I'm Charan Adhithya K! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a strong background in various programming languages, web development technologies, and DevOps tools. 
@@ -37,10 +35,17 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong backgroun
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/charanadhithya/) <!-- Replace with your LinkedIn profile URL -->
-- [Twitter](https://twitter.com/charanadhithya) <!-- Replace with your Twitter profile URL -->
-- [Portfolio](https://charanadhithya.dev) <!-- Replace with your portfolio URL -->
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/charan-adhithya-k-a2564223a/)
+- ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white) [HackerRank](https://www.hackerrank.com/00charan00)
+- ![CodeChef](https://img.shields.io/badge/CodeChef-5B5B5B?style=flat&logo=codechef&logoColor=white) [CodeChef](https://www.codechef.com/users/charan3006)
+- ![LeetCode](https://img.shields.io/badge/LeetCode-FC9C4B?style=flat&logo=leetcode&logoColor=white) [LeetCode](https://leetcode.com/Charan_Adhithya_K/)
+- ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white) [GeeksforGeeks](https://auth.geeksforgeeks.org/user/00charan00)
+- ![TopCoder](https://img.shields.io/badge/TopCoder-4B92DB?style=flat&logo=topcoder&logoColor=white) [TopCoder](https://platform.topcoder.com/profile/00charan00)
+- ![HackerEarth](https://img.shields.io/badge/HackerEarth-FF6F00?style=flat&logo=hackerearth&logoColor=white) [HackerEarth](https://www.hackerearth.com/@poycharan)
+- ![Codeforces](https://img.shields.io/badge/Codeforces-3A6B9D?style=flat&logo=codeforces&logoColor=white) [Codeforces](https://codeforces.com/profile/00charan00)
 
 Feel free to explore my repositories and reach out if you have any questions or just want to connect!
+
+<!-- Optional: Add a brief about your current role or projects if desired -->
 
 <!-- Optional: Add a brief about your current role or projects if desired -->
