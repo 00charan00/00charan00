@@ -44,8 +44,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong backgroun
 - ![HackerEarth](https://img.shields.io/badge/HackerEarth-FF6F00?style=flat&logo=hackerearth&logoColor=white) [HackerEarth](https://www.hackerearth.com/@poycharan)
 - ![Codeforces](https://img.shields.io/badge/Codeforces-3A6B9D?style=flat&logo=codeforces&logoColor=white) [Codeforces](https://codeforces.com/profile/00charan00)
 
-Feel free to explore my repositories and reach out if you have any questions or just want to connect!
+## GitHub Stats
+[![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=00charan00&theme=dark&show_icons=true&&hide=issues,contribs)](https://github-readme-stats.vercel.app/api?username=00charan00&theme=dark&show_icons=true&&hide=issues,contribs)
 
-<!-- Optional: Add a brief about your current role or projects if desired -->
+## LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Charan_Adhithya_K?theme=dark&font=Mada)
+
+Feel free to explore my repositories and reach out if you have any questions or just want to connect!
 
 <!-- Optional: Add a brief about your current role or projects if desired -->
