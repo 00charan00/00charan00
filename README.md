@@ -1,5 +1,7 @@
 # Hello, I'm Charan Adhithya K! 👋
 
+![snake gif](https://github.com/00charan00/00charan00/blob/output/github-contribution-grid-snake.gif)
+
 
 Welcome to my GitHub profile! I'm a passionate developer with a strong background in various programming languages, web development technologies, and DevOps tools. 
 
