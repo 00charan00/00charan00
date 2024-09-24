@@ -4,7 +4,7 @@
 
 
 Welcome to my GitHub profile! I'm a passionate developer with a strong background in various programming languages, web development technologies, and DevOps tools. 
-
+<img src="https://raw.githubusercontent.com/00charan00/00charan00/output/snake.svg" alt="Snake animation" />
 ## Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
@@ -56,5 +56,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong backgroun
 
 ## LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Charan_Adhithya_K?theme=dark&font=Mada)
+
+
 
 Feel free to explore my repositories and reach out if you have any questions or just want to connect!
